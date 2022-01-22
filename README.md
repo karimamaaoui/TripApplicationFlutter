@@ -1,4 +1,4 @@
-# trip_desing
+# trip_application
 
 A new Flutter project.
 
